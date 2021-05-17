@@ -17,7 +17,7 @@
         if ([i intValue] < 0) {
             return @"Negative numbers are not valid for input.";
         }
-        else if (!(NSLocationInRange([i intValue], NSMakeRange(0, (255 - 0))))) {
+        else if (!(NSLocationInRange([i intValue], NSMakeRange(0, (256 - 0))))) {
             return @"The numbers in the input array can be in the range from 0 to 255.";
         }
     }

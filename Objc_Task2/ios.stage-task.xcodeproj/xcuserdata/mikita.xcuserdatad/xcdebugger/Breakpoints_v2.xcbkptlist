@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "3EE10D52-315F-4434-83E5-68D14FF94A1F"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ios.stage-task/Exercises/Exercise-4/TwoDimensionalArraySorter.m"
@@ -17,6 +17,22 @@
             startingLineNumber = "29"
             endingLineNumber = "29"
             landmarkName = "-twoDimensionalSort:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D77BD902-5FA8-4062-B146-EEC0292D2D5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-2/Pairs.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-countPairs:number:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
